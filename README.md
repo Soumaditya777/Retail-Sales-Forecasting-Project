@@ -23,7 +23,6 @@ Build predictive models that forecast future sales, helping retailers make infor
 - **Pandas**: Data manipulation, resampling
 - **Matplotlib / Seaborn**: Visualization
 - **XGBoost**: ML-based forecasting model
-- **Prophet**: Time series trend & seasonality modeling
 - **scikit-learn**: Metrics and model evaluation
 
 ---
